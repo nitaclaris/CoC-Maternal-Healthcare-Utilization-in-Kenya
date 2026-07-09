@@ -1,14 +1,10 @@
+PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
 
+PURPOSE: 		Generating the Outcome Variable
 
-*PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
+AUTHOR:  		NITA CLARIS
 
-
-*PURPOSE: 		Generating the Outcome Variable
-
-*AUTHOR:  		NITA CLARIS
-
-*CREATED: 		16 APR 2026
-
+CREATED: 		16 APR 2026
 
 ********************************************************************************
 
