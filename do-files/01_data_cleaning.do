@@ -15,7 +15,7 @@ set more off
 
 set maxvar 10000
 
-cd "C:\Users\Administrator\Desktop\Manuscripts\Continuum of Maternal Healthcare Utilization\KE_2022_DHS_04082026_1327_164971\KEIR8CDT"
+cd "C:\KEIR8CDT"
 
 ********************DATA CLEANING & MANIPULATION********************************
 ********************************************************************************
