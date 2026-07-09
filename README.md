@@ -48,3 +48,4 @@ This project is published as a preprint as we are in the process of submitting i
 Read the preprint here doi: https://doi.org/10.64898/2026.06.24.26356459
 
 
+Software: Stata v16.0
