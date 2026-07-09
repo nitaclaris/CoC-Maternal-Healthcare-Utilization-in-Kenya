@@ -1,23 +1,23 @@
 # CoC-Maternal-Healthcare-Utilization-in-Kenya
 
-#Project Overview
+# Project Overview
 
 This project investigates the continuum of maternal healthcare utilization in Kenya using data from the 2022 Kenya Demographic and Health Survey (KDHS). The analysis examines socioeconomic and sociodemographic disparities in maternal healthcare utilization, identifying factors associated with incomplete and complete utilization of essential maternal health services.
 
 The project was conducted as part of a broader research study on disparities in maternal healthcare utilization in Kenya.
 
 
-#Research Question
+# Research Question
 
 What are the socioeconomic and sociodemographic factors that influence the continuum of maternal healthcare utilization among women of reproductive age in Kenya?
 
-#Objectives
+# Objectives
 1. Describe the characteristics of women included in the study.
 2. Examine the prevalence of maternal healthcare utilization across the continuum of care.
 3. Assess associations between socioeconomic and sociodemographic characteristics and maternal healthcare utilization.
 4. Identify predictors of incomplete and complete maternal healthcare utilization using multinomial logistic regression.
 
-#Dataset
+# Dataset
 
 Source: Kenya Demographic and Health Survey (KDHS) 2022
 
@@ -25,7 +25,7 @@ The KDHS is a nationally representative household survey that collects informati
 
 Note: The KDHS dataset is not included in this repository due to data sharing restrictions. Researchers can request access through the DHS Program.
 
-#Methods
+# Methods
 
 The analysis includes:
 
@@ -36,10 +36,11 @@ The analysis includes:
 5. Multinomial logistic regression
 6. Model interpretation and reporting
 
-#Summary of Findings
+# Summary of Findings
+
 Women from wealthier households, with higher educational attainment, fewer previous births, intended pregnancies, media exposure, and urban residence were significantly more likely to complete the continuum of maternal healthcare. Persistent socioeconomic and sociodemographic disparities in maternal healthcare utilization highlight the need for targeted interventions to improve equitable access to quality maternal health services in Kenya.
 
-#Author: Nita Claris 
+# Author: Nita Claris 
 
 Biostatistician with interests in maternal and child health,mental health,  epidemiology, statistical modeling, and reproducible research.
 
