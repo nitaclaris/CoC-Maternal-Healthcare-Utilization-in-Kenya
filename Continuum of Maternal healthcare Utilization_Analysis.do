@@ -1,16 +1,10 @@
-
-
-
-*PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya
-* 				Evidence from the 2022 KDHS 
-
+PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
 
 *PURPOSE: 		Data Analysis for a Manuscript 
 
 *AUTHOR:  		NITA CLARIS
 
 *CREATED: 		16 APR 2026
-
 
 ********************************************************************************
 
@@ -215,14 +209,6 @@ svy: tab Watch_TV , col count percent format(%9.1f)
 svy: tab Listen_radio , col count percent format(%9.1f)
 svy: tab Residence , col count percent format(%9.1f)
 
-****Test for Mutlicollinearity
-
-gen complete = (Continuum==2)
-label define complete 0 "No/Partial" 1 "Complete"
-label values complete complete
-melogit complete || v021:
-estat icc
-
 
 ********Table 2 Bivariate analysis
 
@@ -261,7 +247,6 @@ reg Continuum ///
 	
 estat vif
 
-
 ***Multinomial Logistic Regression Model
 
 estimates store m1
@@ -276,3 +261,4 @@ estimates store m1_rrr
 
 ereturn list
 
+save Continuum_MH_clean.dta,replace  ///save the dataset
