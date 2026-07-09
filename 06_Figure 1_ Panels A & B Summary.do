@@ -162,6 +162,3 @@ graph combine panel_a panel_b, ///
 * TIFF at 300 DPI for most journals
 graph export "Figure1_CoC_Kenya2022.tif", ///
     name(figure1) replace width(2400)
-
-* Uncomment below for PDF alternative (BMC, PLOS ONE etc.)
-* graph export "Figure1_CoC_Kenya2022.pdf", name(figure1) replace
