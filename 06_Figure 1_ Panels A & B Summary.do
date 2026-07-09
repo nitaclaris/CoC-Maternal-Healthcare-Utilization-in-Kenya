@@ -1,12 +1,12 @@
-*PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
+PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
 
-*PURPOSE: 		Fig1 : Maternal healthcare utilization and Continuum of Care Distribution
+PURPOSE: 		Fig1 : Maternal healthcare utilization and Continuum of Care Distribution
 
-*AUTHOR:  		NITA CLARIS
+AUTHOR:  		NITA CLARIS
 
-*CREATED: 		17 APR 2026
+CREATED: 		17 APR 2026
 
-
+*****************************************************************************
 cls
 clear
 clear matrix
