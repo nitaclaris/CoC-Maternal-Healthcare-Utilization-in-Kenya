@@ -1,12 +1,10 @@
-*PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
+PROJECT:		Socioeconomic and Sociodemographic Predictors of Continuum of Maternal Healthcare Utilization in Kenya: Evidence from the 2022 KDHS 
 
+PURPOSE: 		Multinomial Regression  Analysis
 
-*PURPOSE: 		Multinomial Regression  Analysis
+AUTHOR:  		NITA CLARIS
 
-*AUTHOR:  		NITA CLARIS
-
-*CREATED: 		16 APR 2026
-
+CREATED: 		16 APR 2026
 
 ********************************************************************************
 
